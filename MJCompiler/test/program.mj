@@ -1,0 +1,10 @@
+program MJProgram
+	int pp;
+{
+	
+	
+	void main() int bodovi; {
+		pp = 1;
+		print(pp);
+		}
+}

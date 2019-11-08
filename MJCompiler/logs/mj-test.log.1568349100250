@@ -1,0 +1,198 @@
+INFO  06:30:34,978 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test3.mj
+INFO  06:30:35,163 - #2 program
+INFO  06:30:35,163 - #17 test302
+INFO  06:30:35,163 - #21 enum
+INFO  06:30:35,163 - #17 IncrementType
+INFO  06:30:35,163 - #3 {
+INFO  06:30:35,163 - #17 BY_ONE
+INFO  06:30:35,163 - #8 ,
+INFO  06:30:35,163 - #17 DOUBLE_VALUE
+INFO  06:30:35,163 - #4 }
+INFO  06:30:35,163 - #17 int
+INFO  06:30:35,163 - #17 i
+INFO  06:30:35,163 - #5 ;
+INFO  06:30:35,163 - #17 bool
+INFO  06:30:35,163 - #17 ibool
+INFO  06:30:35,163 - #5 ;
+INFO  06:30:35,163 - #17 int
+INFO  06:30:35,163 - #17 niz
+INFO  06:30:35,163 - #22 [
+INFO  06:30:35,163 - #23 ]
+INFO  06:30:35,179 - #5 ;
+INFO  06:30:35,179 - #3 {
+INFO  06:30:35,179 - #17 int
+INFO  06:30:35,179 - #17 sum
+INFO  06:30:35,179 - #6 (
+INFO  06:30:35,179 - #17 int
+INFO  06:30:35,179 - #17 z
+INFO  06:30:35,179 - #8 ,
+INFO  06:30:35,179 - #17 int
+INFO  06:30:35,179 - #17 d
+INFO  06:30:35,179 - #7 )
+INFO  06:30:35,179 - #3 {
+INFO  06:30:35,179 - #10 return
+INFO  06:30:35,179 - #17 z
+INFO  06:30:35,179 - #11 +
+INFO  06:30:35,179 - #17 d
+INFO  06:30:35,179 - #5 ;
+INFO  06:30:35,179 - #4 }
+INFO  06:30:35,179 - #17 int
+INFO  06:30:35,179 - #17 inkrement
+INFO  06:30:35,179 - #6 (
+INFO  06:30:35,179 - #17 int
+INFO  06:30:35,179 - #17 a
+INFO  06:30:35,179 - #8 ,
+INFO  06:30:35,179 - #17 IncrementType
+INFO  06:30:35,179 - #17 type
+INFO  06:30:35,179 - #7 )
+INFO  06:30:35,179 - #17 int
+INFO  06:30:35,179 - #17 pom
+INFO  06:30:35,179 - #5 ;
+INFO  06:30:35,179 - #3 {
+INFO  06:30:35,179 - #17 pom
+INFO  06:30:35,179 - #12 =
+INFO  06:30:35,179 - #14 1
+INFO  06:30:35,179 - #5 ;
+INFO  06:30:35,179 - #10 return
+INFO  06:30:35,179 - #17 sum
+INFO  06:30:35,179 - #6 (
+INFO  06:30:35,179 - #17 a
+INFO  06:30:35,179 - #8 ,
+INFO  06:30:35,194 - #17 pom
+INFO  06:30:35,194 - #7 )
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #4 }
+INFO  06:30:35,194 - #13 void
+INFO  06:30:35,194 - #17 main
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #7 )
+INFO  06:30:35,194 - #3 {
+INFO  06:30:35,194 - #9 print
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #38 -
+INFO  06:30:35,194 - #14 6
+INFO  06:30:35,194 - #7 )
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #17 i
+INFO  06:30:35,194 - #12 =
+INFO  06:30:35,194 - #14 0
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #17 niz
+INFO  06:30:35,194 - #12 =
+INFO  06:30:35,194 - #42 new 
+INFO  06:30:35,194 - #17 int
+INFO  06:30:35,194 - #22 [
+INFO  06:30:35,194 - #14 3
+INFO  06:30:35,194 - #23 ]
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #9 print
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #17 eol
+INFO  06:30:35,194 - #7 )
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #17 i
+INFO  06:30:35,194 - #12 =
+INFO  06:30:35,194 - #14 0
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #37 read
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #17 niz
+INFO  06:30:35,194 - #22 [
+INFO  06:30:35,194 - #14 0
+INFO  06:30:35,194 - #23 ]
+INFO  06:30:35,194 - #7 )
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #37 read
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #17 niz
+INFO  06:30:35,194 - #22 [
+INFO  06:30:35,194 - #14 1
+INFO  06:30:35,194 - #23 ]
+INFO  06:30:35,194 - #7 )
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #37 read
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #17 niz
+INFO  06:30:35,194 - #22 [
+INFO  06:30:35,194 - #14 2
+INFO  06:30:35,194 - #23 ]
+INFO  06:30:35,194 - #7 )
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #9 print
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #17 eol
+INFO  06:30:35,194 - #7 )
+INFO  06:30:35,194 - #5 ;
+INFO  06:30:35,194 - #9 print
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #17 sum
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #17 sum
+INFO  06:30:35,194 - #6 (
+INFO  06:30:35,194 - #17 niz
+INFO  06:30:35,194 - #22 [
+INFO  06:30:35,194 - #14 0
+INFO  06:30:35,194 - #23 ]
+INFO  06:30:35,210 - #8 ,
+INFO  06:30:35,210 - #17 niz
+INFO  06:30:35,210 - #22 [
+INFO  06:30:35,210 - #14 1
+INFO  06:30:35,210 - #23 ]
+INFO  06:30:35,210 - #7 )
+INFO  06:30:35,210 - #8 ,
+INFO  06:30:35,210 - #17 niz
+INFO  06:30:35,210 - #22 [
+INFO  06:30:35,210 - #14 2
+INFO  06:30:35,210 - #23 ]
+INFO  06:30:35,210 - #7 )
+INFO  06:30:35,210 - #7 )
+INFO  06:30:35,210 - #5 ;
+INFO  06:30:35,210 - #9 print
+INFO  06:30:35,210 - #6 (
+INFO  06:30:35,210 - #17 eol
+INFO  06:30:35,210 - #7 )
+INFO  06:30:35,210 - #5 ;
+INFO  06:30:35,210 - #9 print
+INFO  06:30:35,210 - #6 (
+INFO  06:30:35,210 - #17 inkrement
+INFO  06:30:35,210 - #6 (
+INFO  06:30:35,210 - #17 niz
+INFO  06:30:35,210 - #22 [
+INFO  06:30:35,210 - #14 2
+INFO  06:30:35,210 - #23 ]
+INFO  06:30:35,210 - #8 ,
+INFO  06:30:35,210 - #17 IncrementType
+INFO  06:30:35,210 - #43 .
+INFO  06:30:35,210 - #17 DOUBLE_VALUE
+INFO  06:30:35,210 - #7 )
+INFO  06:30:35,210 - #7 )
+INFO  06:30:35,210 - #5 ;
+INFO  06:30:35,210 - #4 }
+INFO  06:30:35,210 - #4 }
+INFO  06:30:35,241 - Detektovano koriscenje lokalne promenljive z na liniji 15
+INFO  06:30:35,241 - Detektovano koriscenje lokalne promenljive d na liniji 15
+INFO  06:30:35,241 - Detektovano koriscenje lokalne promenljive pom na liniji 20
+INFO  06:30:35,241 - Detektovano koriscenje lokalne promenljive a na liniji 22
+INFO  06:30:35,241 - Detektovano koriscenje lokalne promenljive pom na liniji 22
+INFO  06:30:35,241 - Pronadjen poziv funkcije sum na liniji 22
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive i na liniji 30
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive niz na liniji 35
+INFO  06:30:35,241 - Detektovano koriscenje konstante eol u liniji 37 na liniji 37
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive i na liniji 38
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive niz na liniji 42
+ERROR 06:30:35,241 - Argument metode read mora biti int, char ili bool. na liniji 42
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive niz na liniji 43
+ERROR 06:30:35,241 - Argument metode read mora biti int, char ili bool. na liniji 43
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive niz na liniji 44
+ERROR 06:30:35,241 - Argument metode read mora biti int, char ili bool. na liniji 44
+INFO  06:30:35,241 - Detektovano koriscenje konstante eol u liniji 45 na liniji 45
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive niz na liniji 47
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive niz na liniji 47
+INFO  06:30:35,241 - Pronadjen poziv funkcije sum na liniji 47
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive niz na liniji 47
+INFO  06:30:35,241 - Pronadjen poziv funkcije sum na liniji 47
+INFO  06:30:35,241 - Detektovano koriscenje konstante eol u liniji 49 na liniji 49
+INFO  06:30:35,241 - Detektovano koriscenje globalne promenljive niz na liniji 50
+INFO  06:30:35,241 - Pronadjen poziv funkcije inkrement na liniji 50
+INFO  06:30:35,241 - Print calls = 6
+ERROR 06:30:35,241 - Parsiranje NIJE uspesno zavrseno!

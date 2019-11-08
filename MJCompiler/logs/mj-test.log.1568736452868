@@ -1,0 +1,89 @@
+INFO  18:07:19,011 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  18:07:19,235 - #2 program
+INFO  18:07:19,235 - #17 p
+INFO  18:07:19,235 - #3 {
+INFO  18:07:19,239 - #13 void
+INFO  18:07:19,243 - #17 v
+INFO  18:07:19,243 - #6 (
+INFO  18:07:19,243 - #7 )
+INFO  18:07:19,243 - #3 {
+INFO  18:07:19,243 - #9 print
+INFO  18:07:19,247 - #6 (
+INFO  18:07:19,247 - #16 V
+INFO  18:07:19,247 - #7 )
+INFO  18:07:19,247 - #5 ;
+INFO  18:07:19,247 - #4 }
+INFO  18:07:19,247 - #17 int
+INFO  18:07:19,267 - #17 f
+INFO  18:07:19,267 - #6 (
+INFO  18:07:19,267 - #17 int
+INFO  18:07:19,267 - #17 x
+INFO  18:07:19,267 - #8 ,
+INFO  18:07:19,267 - #17 char
+INFO  18:07:19,278 - #17 c
+INFO  18:07:19,278 - #7 )
+INFO  18:07:19,278 - #3 {
+INFO  18:07:19,278 - #10 return
+INFO  18:07:19,282 - #17 x
+INFO  18:07:19,282 - #11 +
+INFO  18:07:19,282 - #14 1
+INFO  18:07:19,282 - #5 ;
+INFO  18:07:19,282 - #4 }
+INFO  18:07:19,282 - #13 void
+INFO  18:07:19,282 - #17 main
+INFO  18:07:19,282 - #6 (
+INFO  18:07:19,282 - #7 )
+INFO  18:07:19,282 - #17 int
+INFO  18:07:19,282 - #17 x
+INFO  18:07:19,282 - #5 ;
+INFO  18:07:19,282 - #17 char
+INFO  18:07:19,286 - #17 ch
+INFO  18:07:19,286 - #5 ;
+INFO  18:07:19,286 - #3 {
+INFO  18:07:19,286 - #17 ch
+INFO  18:07:19,290 - #12 =
+INFO  18:07:19,290 - #16 d
+INFO  18:07:19,290 - #5 ;
+INFO  18:07:19,290 - #9 print
+INFO  18:07:19,290 - #6 (
+INFO  18:07:19,290 - #17 ch
+INFO  18:07:19,290 - #7 )
+INFO  18:07:19,290 - #5 ;
+INFO  18:07:19,290 - #17 x
+INFO  18:07:19,290 - #12 =
+INFO  18:07:19,290 - #17 f
+INFO  18:07:19,290 - #6 (
+INFO  18:07:19,290 - #14 1
+INFO  18:07:19,294 - #8 ,
+INFO  18:07:19,294 - #16 c
+INFO  18:07:19,294 - #7 )
+INFO  18:07:19,294 - #5 ;
+INFO  18:07:19,302 - #17 f
+INFO  18:07:19,306 - #6 (
+INFO  18:07:19,306 - #14 2
+INFO  18:07:19,306 - #8 ,
+INFO  18:07:19,306 - #16 d
+INFO  18:07:19,306 - #7 )
+INFO  18:07:19,306 - #5 ;
+INFO  18:07:19,306 - #17 x
+INFO  18:07:19,306 - #12 =
+INFO  18:07:19,306 - #14 1235
+INFO  18:07:19,306 - #5 ;
+INFO  18:07:19,308 - #9 print
+INFO  18:07:19,308 - #6 (
+INFO  18:07:19,308 - #17 x
+INFO  18:07:19,308 - #7 )
+INFO  18:07:19,308 - #5 ;
+INFO  18:07:19,308 - #4 }
+INFO  18:07:19,308 - #4 }
+INFO  18:07:19,339 - Detektovano koriscenje lokalne promenljive x na liniji 10
+INFO  18:07:19,339 - Detektovano koriscenje lokalne promenljive ch na liniji 22
+INFO  18:07:19,339 - Detektovano koriscenje lokalne promenljive ch na liniji 23
+INFO  18:07:19,339 - Detektovano koriscenje lokalne promenljive x na liniji 25
+INFO  18:07:19,339 - Pronadjen poziv funkcije f na liniji 25
+INFO  18:07:19,339 - Pronadjen poziv funkcije f na liniji 26
+INFO  18:07:19,339 - Detektovano koriscenje lokalne promenljive x na liniji 27
+INFO  18:07:19,339 - Detektovano koriscenje lokalne promenljive x na liniji 28
+INFO  18:07:19,339 - Print calls = 3
+INFO  18:07:19,339 - Generating bytecode file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.obj
+INFO  18:07:19,355 - Parsiranje uspesno zavrseno!

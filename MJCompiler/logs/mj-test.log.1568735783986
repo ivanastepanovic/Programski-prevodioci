@@ -1,0 +1,47 @@
+INFO  17:56:05,476 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  17:56:05,648 - #2 program
+INFO  17:56:05,648 - #17 p
+INFO  17:56:05,648 - #3 {
+INFO  17:56:05,648 - #17 int
+INFO  17:56:05,648 - #17 f
+INFO  17:56:05,648 - #6 (
+INFO  17:56:05,648 - #17 int
+INFO  17:56:05,648 - #17 x
+INFO  17:56:05,648 - #8 ,
+INFO  17:56:05,648 - #17 char
+INFO  17:56:05,648 - #17 c
+INFO  17:56:05,648 - #7 )
+INFO  17:56:05,648 - #3 {
+INFO  17:56:05,648 - #10 return
+INFO  17:56:05,648 - #17 x
+INFO  17:56:05,648 - #11 +
+INFO  17:56:05,665 - #14 1
+INFO  17:56:05,665 - #5 ;
+INFO  17:56:05,665 - #4 }
+INFO  17:56:05,665 - #13 void
+INFO  17:56:05,665 - #17 main
+INFO  17:56:05,669 - #6 (
+INFO  17:56:05,673 - #7 )
+INFO  17:56:05,673 - #17 int
+INFO  17:56:05,673 - #17 x
+INFO  17:56:05,673 - #5 ;
+INFO  17:56:05,673 - #3 {
+INFO  17:56:05,673 - #17 x
+INFO  17:56:05,673 - #12 =
+INFO  17:56:05,673 - #17 f
+INFO  17:56:05,673 - #6 (
+INFO  17:56:05,673 - #14 1
+INFO  17:56:05,673 - #8 ,
+INFO  17:56:05,673 - #14 2
+INFO  17:56:05,673 - #8 ,
+INFO  17:56:05,673 - #14 3
+INFO  17:56:05,673 - #7 )
+INFO  17:56:05,673 - #5 ;
+INFO  17:56:05,677 - #4 }
+INFO  17:56:05,677 - #4 }
+INFO  17:56:05,702 - Detektovano koriscenje lokalne promenljive x na liniji 5
+INFO  17:56:05,702 - Detektovano koriscenje lokalne promenljive x na liniji 11
+INFO  17:56:05,702 - Pronadjen poziv funkcije f na liniji 11
+ERROR 17:56:05,702 - Nije adekvatan broj argumenata! Greska  na liniji 11
+INFO  17:56:05,702 - Print calls = 0
+ERROR 17:56:05,702 - Parsiranje NIJE uspesno zavrseno!

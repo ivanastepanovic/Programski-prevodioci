@@ -1,0 +1,106 @@
+INFO  22:08:51,803 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:08:51,995 - #2 program
+INFO  22:08:51,996 - #17 MJProgram
+INFO  22:08:51,996 - #17 int
+INFO  22:08:51,999 - #17 pp
+INFO  22:08:52,000 - #5 ;
+INFO  22:08:52,000 - #3 {
+INFO  22:08:52,001 - #13 void
+INFO  22:08:52,002 - #17 main
+INFO  22:08:52,002 - #6 (
+INFO  22:08:52,002 - #7 )
+INFO  22:08:52,004 - #17 int
+INFO  22:08:52,004 - #17 bodovi
+INFO  22:08:52,004 - #5 ;
+INFO  22:08:52,004 - #3 {
+INFO  22:08:52,004 - #17 pp
+INFO  22:08:52,006 - #12 =
+INFO  22:08:52,006 - #14 1
+INFO  22:08:52,006 - #5 ;
+INFO  22:08:52,007 - #9 print
+INFO  22:08:52,008 - #6 (
+INFO  22:08:52,009 - #17 pp
+INFO  22:08:52,009 - #7 )
+INFO  22:08:52,009 - #5 ;
+INFO  22:08:52,009 - #4 }
+INFO  22:08:52,010 - #4 }
+INFO  22:08:52,012 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarations(
+    NoVarDecl(
+    ) [NoVarDecl]
+    VarDecla(
+      Type(
+       int
+      ) [Type]
+      SingleVar(
+       pp
+      ) [SingleVar]
+    ) [VarDecla]
+  ) [VarDeclarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDec(
+      MethodTypeName2(
+       main
+      ) [MethodTypeName2]
+      NoFormParam(
+      ) [NoFormParam]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDecla(
+          Type(
+           int
+          ) [Type]
+          SingleVar(
+           bodovi
+          ) [SingleVar]
+        ) [VarDecla]
+      ) [VarDeclarations]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            DesigStm(
+              DesigEqual(
+                DesigIndent(
+                 pp
+                ) [DesigIndent]
+                Exp(
+                  TermExpr(
+                    SingleFactor(
+                      FactNum(
+                       1
+                      ) [FactNum]
+                    ) [SingleFactor]
+                  ) [TermExpr]
+                ) [Exp]
+              ) [DesigEqual]
+            ) [DesigStm]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          PrintStmt(
+            Exp(
+              TermExpr(
+                SingleFactor(
+                  Var(
+                    DesigIndent(
+                     pp
+                    ) [DesigIndent]
+                  ) [Var]
+                ) [SingleFactor]
+              ) [TermExpr]
+            ) [Exp]
+          ) [PrintStmt]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDec]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:08:52,013 - ===================================

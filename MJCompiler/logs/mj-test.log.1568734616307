@@ -1,0 +1,62 @@
+INFO  17:29:25,289 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  17:29:25,460 - #2 program
+INFO  17:29:25,460 - #17 p
+INFO  17:29:25,460 - #3 {
+INFO  17:29:25,460 - #17 int
+INFO  17:29:25,460 - #17 f
+INFO  17:29:25,460 - #6 (
+INFO  17:29:25,460 - #17 int
+INFO  17:29:25,460 - #17 x
+INFO  17:29:25,460 - #8 ,
+INFO  17:29:25,460 - #17 char
+INFO  17:29:25,476 - #17 c
+INFO  17:29:25,476 - #8 ,
+INFO  17:29:25,476 - #17 int
+INFO  17:29:25,476 - #17 a
+INFO  17:29:25,476 - #8 ,
+INFO  17:29:25,476 - #17 int
+INFO  17:29:25,476 - #17 b
+INFO  17:29:25,476 - #8 ,
+INFO  17:29:25,476 - #17 int
+INFO  17:29:25,476 - #17 c
+INFO  17:29:25,476 - #7 )
+INFO  17:29:25,476 - #3 {
+INFO  17:29:25,476 - #10 return
+INFO  17:29:25,476 - #17 x
+INFO  17:29:25,476 - #11 +
+INFO  17:29:25,476 - #14 1
+INFO  17:29:25,476 - #5 ;
+INFO  17:29:25,476 - #4 }
+INFO  17:29:25,476 - #13 void
+INFO  17:29:25,476 - #17 main
+INFO  17:29:25,476 - #6 (
+INFO  17:29:25,476 - #7 )
+INFO  17:29:25,476 - #3 {
+INFO  17:29:25,476 - #17 f
+INFO  17:29:25,476 - #6 (
+INFO  17:29:25,476 - #14 1
+INFO  17:29:25,476 - #8 ,
+INFO  17:29:25,476 - #16 '
+INFO  17:29:25,476 - #7 )
+INFO  17:29:25,476 - #5 ;
+INFO  17:29:25,476 - #17 f
+INFO  17:29:25,476 - #6 (
+INFO  17:29:25,476 - #14 1
+INFO  17:29:25,476 - #8 ,
+INFO  17:29:25,476 - #14 2
+INFO  17:29:25,476 - #8 ,
+INFO  17:29:25,476 - #14 3
+INFO  17:29:25,476 - #7 )
+INFO  17:29:25,476 - #5 ;
+INFO  17:29:25,476 - #17 f
+INFO  17:29:25,476 - #6 (
+INFO  17:29:25,476 - #7 )
+INFO  17:29:25,476 - #5 ;
+INFO  17:29:25,492 - #4 }
+INFO  17:29:25,492 - #4 }
+ERROR 17:29:25,507 - Greska na liniji 4 : Naziv formalnog parametra -c- vec postoji u metodi f na liniji 4
+INFO  17:29:25,507 - Detektovano koriscenje lokalne promenljive x na liniji 5
+INFO  17:29:25,507 - Pronadjen poziv funkcije f na liniji 9
+INFO  17:29:25,523 - Pronadjen poziv funkcije f na liniji 10
+INFO  17:29:25,523 - Print calls = 0
+ERROR 17:29:25,523 - Parsiranje NIJE uspesno zavrseno!

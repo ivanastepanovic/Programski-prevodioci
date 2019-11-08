@@ -1,0 +1,398 @@
+INFO  14:37:02,664 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  14:37:02,903 - #2 program
+INFO  14:37:02,903 - #17 test301
+INFO  14:37:02,904 - #21 enum
+INFO  14:37:02,907 - #17 Broj
+INFO  14:37:02,907 - #3 {
+INFO  14:37:02,909 - #17 NULA
+INFO  14:37:02,909 - #8 ,
+INFO  14:37:02,909 - #17 JEDAN
+INFO  14:37:02,909 - #8 ,
+INFO  14:37:02,909 - #17 PET
+INFO  14:37:02,910 - #12 =
+INFO  14:37:02,910 - #14 5
+INFO  14:37:02,910 - #8 ,
+INFO  14:37:02,910 - #17 DESET
+INFO  14:37:02,911 - #12 =
+INFO  14:37:02,911 - #14 10
+INFO  14:37:02,911 - #4 }
+INFO  14:37:02,911 - #20 const
+INFO  14:37:02,913 - #17 int
+INFO  14:37:02,914 - #17 jedan
+INFO  14:37:02,916 - #12 =
+INFO  14:37:02,916 - #14 1
+INFO  14:37:02,916 - #5 ;
+INFO  14:37:02,917 - #20 const
+INFO  14:37:02,919 - #17 int
+INFO  14:37:02,919 - #17 pet
+INFO  14:37:02,919 - #12 =
+INFO  14:37:02,920 - #14 5
+INFO  14:37:02,920 - #5 ;
+INFO  14:37:02,920 - #17 int
+INFO  14:37:02,920 - #17 niz
+INFO  14:37:02,920 - #22 [
+INFO  14:37:02,920 - #23 ]
+INFO  14:37:02,920 - #5 ;
+INFO  14:37:02,921 - #17 char
+INFO  14:37:02,921 - #17 nizch
+INFO  14:37:02,921 - #22 [
+INFO  14:37:02,922 - #23 ]
+INFO  14:37:02,922 - #5 ;
+INFO  14:37:02,922 - #3 {
+INFO  14:37:02,922 - #17 int
+INFO  14:37:02,924 - #17 inc
+INFO  14:37:02,924 - #6 (
+INFO  14:37:02,924 - #17 int
+INFO  14:37:02,924 - #17 broj
+INFO  14:37:02,926 - #7 )
+INFO  14:37:02,927 - #3 {
+INFO  14:37:02,928 - #10 return
+INFO  14:37:02,929 - #17 broj
+INFO  14:37:02,930 - #11 +
+INFO  14:37:02,930 - #17 Broj
+INFO  14:37:02,930 - #43 .
+INFO  14:37:02,931 - #17 JEDAN
+INFO  14:37:02,931 - #5 ;
+INFO  14:37:02,931 - #4 }
+INFO  14:37:02,932 - #13 void
+INFO  14:37:02,934 - #17 mul
+INFO  14:37:02,934 - #6 (
+INFO  14:37:02,934 - #17 int
+INFO  14:37:02,942 - #17 arr
+INFO  14:37:02,942 - #22 [
+INFO  14:37:02,942 - #23 ]
+INFO  14:37:02,942 - #8 ,
+INFO  14:37:02,943 - #17 int
+INFO  14:37:02,943 - #17 index
+INFO  14:37:02,943 - #8 ,
+INFO  14:37:02,944 - #17 int
+INFO  14:37:02,944 - #17 b
+INFO  14:37:02,944 - #7 )
+INFO  14:37:02,944 - #3 {
+INFO  14:37:02,944 - #17 arr
+INFO  14:37:02,947 - #22 [
+INFO  14:37:02,948 - #17 index
+INFO  14:37:02,948 - #23 ]
+INFO  14:37:02,948 - #12 =
+INFO  14:37:02,948 - #17 arr
+INFO  14:37:02,949 - #22 [
+INFO  14:37:02,949 - #17 index
+INFO  14:37:02,949 - #23 ]
+INFO  14:37:02,949 - #39 *
+INFO  14:37:02,949 - #17 b
+INFO  14:37:02,949 - #5 ;
+INFO  14:37:02,950 - #4 }
+INFO  14:37:02,951 - #13 void
+INFO  14:37:02,951 - #17 main
+INFO  14:37:02,951 - #6 (
+INFO  14:37:02,951 - #7 )
+INFO  14:37:02,953 - #17 int
+INFO  14:37:02,953 - #17 bodovi
+INFO  14:37:02,953 - #5 ;
+INFO  14:37:02,953 - #17 Broj
+INFO  14:37:02,953 - #17 nula
+INFO  14:37:02,954 - #8 ,
+INFO  14:37:02,954 - #17 jedan
+INFO  14:37:02,954 - #5 ;
+INFO  14:37:02,954 - #3 {
+INFO  14:37:02,954 - #17 nula
+INFO  14:37:02,955 - #12 =
+INFO  14:37:02,955 - #17 Broj
+INFO  14:37:02,955 - #43 .
+INFO  14:37:02,956 - #17 NULA
+INFO  14:37:02,956 - #5 ;
+INFO  14:37:02,956 - #17 jedan
+INFO  14:37:02,956 - #12 =
+INFO  14:37:02,957 - #17 Broj
+INFO  14:37:02,957 - #43 .
+INFO  14:37:02,957 - #17 JEDAN
+INFO  14:37:02,957 - #5 ;
+INFO  14:37:02,957 - #17 bodovi
+INFO  14:37:02,958 - #12 =
+INFO  14:37:02,958 - #14 0
+INFO  14:37:02,958 - #5 ;
+INFO  14:37:02,959 - #17 bodovi
+INFO  14:37:02,966 - #35 ++
+INFO  14:37:02,966 - #5 ;
+INFO  14:37:02,968 - #17 bodovi
+INFO  14:37:02,969 - #12 =
+INFO  14:37:02,969 - #17 bodovi
+INFO  14:37:02,969 - #11 +
+INFO  14:37:02,969 - #17 jedan
+INFO  14:37:02,969 - #5 ;
+INFO  14:37:02,970 - #17 bodovi
+INFO  14:37:02,970 - #12 =
+INFO  14:37:02,970 - #17 bodovi
+INFO  14:37:02,970 - #39 *
+INFO  14:37:02,970 - #17 pet
+INFO  14:37:02,970 - #5 ;
+INFO  14:37:02,971 - #17 bodovi
+INFO  14:37:02,971 - #36 --
+INFO  14:37:02,971 - #5 ;
+INFO  14:37:02,973 - #9 print
+INFO  14:37:02,974 - #6 (
+INFO  14:37:02,974 - #17 bodovi
+INFO  14:37:02,974 - #7 )
+INFO  14:37:02,974 - #5 ;
+INFO  14:37:02,974 - #17 niz
+INFO  14:37:02,975 - #12 =
+INFO  14:37:02,975 - #42 new 
+INFO  14:37:02,975 - #17 int
+INFO  14:37:02,975 - #22 [
+INFO  14:37:02,975 - #14 2
+INFO  14:37:02,975 - #23 ]
+INFO  14:37:02,975 - #5 ;
+INFO  14:37:02,977 - #17 niz
+INFO  14:37:02,977 - #22 [
+INFO  14:37:02,977 - #17 nula
+INFO  14:37:02,978 - #23 ]
+INFO  14:37:02,978 - #12 =
+INFO  14:37:02,978 - #17 pet
+INFO  14:37:02,978 - #5 ;
+INFO  14:37:02,978 - #17 niz
+INFO  14:37:02,978 - #22 [
+INFO  14:37:02,978 - #14 1
+INFO  14:37:02,978 - #23 ]
+INFO  14:37:02,978 - #12 =
+INFO  14:37:02,978 - #17 Broj
+INFO  14:37:02,978 - #43 .
+INFO  14:37:02,979 - #17 DESET
+INFO  14:37:02,979 - #5 ;
+INFO  14:37:02,979 - #17 mul
+INFO  14:37:02,979 - #6 (
+INFO  14:37:02,979 - #17 niz
+INFO  14:37:02,979 - #8 ,
+INFO  14:37:02,980 - #17 inc
+INFO  14:37:02,980 - #6 (
+INFO  14:37:02,980 - #14 0
+INFO  14:37:02,980 - #7 )
+INFO  14:37:02,980 - #8 ,
+INFO  14:37:02,981 - #14 2
+INFO  14:37:02,981 - #7 )
+INFO  14:37:02,981 - #5 ;
+INFO  14:37:02,981 - #17 mul
+INFO  14:37:02,982 - #6 (
+INFO  14:37:02,982 - #17 niz
+INFO  14:37:02,982 - #8 ,
+INFO  14:37:02,983 - #17 Broj
+INFO  14:37:02,983 - #43 .
+INFO  14:37:02,983 - #17 NULA
+INFO  14:37:02,983 - #8 ,
+INFO  14:37:02,983 - #17 inc
+INFO  14:37:02,983 - #6 (
+INFO  14:37:02,983 - #17 inc
+INFO  14:37:02,983 - #6 (
+INFO  14:37:02,984 - #17 Broj
+INFO  14:37:02,984 - #43 .
+INFO  14:37:02,984 - #17 JEDAN
+INFO  14:37:02,984 - #7 )
+INFO  14:37:02,984 - #11 +
+INFO  14:37:02,984 - #14 1
+INFO  14:37:02,984 - #7 )
+INFO  14:37:02,985 - #7 )
+INFO  14:37:02,985 - #5 ;
+INFO  14:37:02,985 - #17 bodovi
+INFO  14:37:02,985 - #12 =
+INFO  14:37:02,985 - #17 niz
+INFO  14:37:02,985 - #22 [
+INFO  14:37:02,986 - #14 1
+INFO  14:37:02,986 - #23 ]
+INFO  14:37:02,986 - #40 /
+INFO  14:37:02,986 - #17 niz
+INFO  14:37:02,986 - #22 [
+INFO  14:37:02,986 - #14 0
+INFO  14:37:02,986 - #23 ]
+INFO  14:37:02,986 - #5 ;
+INFO  14:37:02,987 - #9 print
+INFO  14:37:02,987 - #6 (
+INFO  14:37:02,987 - #17 bodovi
+INFO  14:37:02,987 - #7 )
+INFO  14:37:02,987 - #5 ;
+INFO  14:37:02,987 - #9 print
+INFO  14:37:02,988 - #6 (
+INFO  14:37:02,988 - #17 niz
+INFO  14:37:02,988 - #22 [
+INFO  14:37:02,988 - #17 Broj
+INFO  14:37:02,988 - #43 .
+INFO  14:37:02,988 - #17 JEDAN
+INFO  14:37:02,988 - #23 ]
+INFO  14:37:02,988 - #7 )
+INFO  14:37:02,989 - #5 ;
+INFO  14:37:02,989 - #17 nizch
+INFO  14:37:02,989 - #12 =
+INFO  14:37:02,989 - #42 new 
+INFO  14:37:02,989 - #17 char
+INFO  14:37:02,989 - #22 [
+INFO  14:37:02,989 - #14 3
+INFO  14:37:02,989 - #23 ]
+INFO  14:37:02,989 - #5 ;
+INFO  14:37:02,989 - #17 nizch
+INFO  14:37:02,989 - #22 [
+INFO  14:37:02,990 - #14 0
+INFO  14:37:02,990 - #23 ]
+INFO  14:37:02,990 - #12 =
+INFO  14:37:02,990 - #16 a
+INFO  14:37:02,990 - #5 ;
+INFO  14:37:02,990 - #17 nizch
+INFO  14:37:02,990 - #22 [
+INFO  14:37:02,990 - #17 jedan
+INFO  14:37:02,990 - #23 ]
+INFO  14:37:02,990 - #12 =
+INFO  14:37:02,991 - #16 b
+INFO  14:37:02,991 - #5 ;
+INFO  14:37:02,991 - #17 nizch
+INFO  14:37:02,991 - #22 [
+INFO  14:37:02,991 - #17 pet
+INFO  14:37:02,991 - #38 -
+INFO  14:37:02,991 - #14 3
+INFO  14:37:02,991 - #23 ]
+INFO  14:37:02,991 - #12 =
+INFO  14:37:02,991 - #16 c
+INFO  14:37:02,991 - #5 ;
+INFO  14:37:02,992 - #9 print
+INFO  14:37:02,992 - #6 (
+INFO  14:37:02,992 - #17 nizch
+INFO  14:37:02,992 - #22 [
+INFO  14:37:02,992 - #17 inc
+INFO  14:37:02,992 - #6 (
+INFO  14:37:02,993 - #14 0
+INFO  14:37:02,993 - #7 )
+INFO  14:37:02,993 - #23 ]
+INFO  14:37:02,993 - #7 )
+INFO  14:37:02,993 - #5 ;
+INFO  14:37:02,993 - #9 print
+INFO  14:37:02,993 - #6 (
+INFO  14:37:02,993 - #17 nizch
+INFO  14:37:02,993 - #22 [
+INFO  14:37:02,993 - #17 jedan
+INFO  14:37:02,993 - #39 *
+INFO  14:37:02,993 - #14 2
+INFO  14:37:02,994 - #23 ]
+INFO  14:37:02,994 - #7 )
+INFO  14:37:02,994 - #5 ;
+INFO  14:37:02,994 - #17 bodovi
+INFO  14:37:02,994 - #12 =
+INFO  14:37:02,994 - #17 bodovi
+INFO  14:37:02,994 - #11 +
+INFO  14:37:02,994 - #6 (
+INFO  14:37:02,994 - #6 (
+INFO  14:37:02,994 - #17 pet
+INFO  14:37:02,994 - #39 *
+INFO  14:37:02,994 - #17 jedan
+INFO  14:37:02,994 - #38 -
+INFO  14:37:02,995 - #14 1
+INFO  14:37:02,995 - #7 )
+INFO  14:37:02,995 - #39 *
+INFO  14:37:02,995 - #17 inc
+INFO  14:37:02,995 - #6 (
+INFO  14:37:02,995 - #17 Broj
+INFO  14:37:02,995 - #43 .
+INFO  14:37:02,995 - #17 JEDAN
+INFO  14:37:02,996 - #7 )
+INFO  14:37:02,996 - #38 -
+INFO  14:37:02,996 - #6 (
+INFO  14:37:02,996 - #14 3
+INFO  14:37:02,996 - #41 %
+INFO  14:37:02,996 - #14 2
+INFO  14:37:02,996 - #11 +
+INFO  14:37:02,997 - #14 3
+INFO  14:37:02,997 - #39 *
+INFO  14:37:02,997 - #14 2
+INFO  14:37:02,997 - #38 -
+INFO  14:37:02,997 - #14 3
+INFO  14:37:02,997 - #7 )
+INFO  14:37:02,997 - #38 -
+INFO  14:37:02,997 - #17 inc
+INFO  14:37:02,998 - #6 (
+INFO  14:37:02,998 - #17 Broj
+INFO  14:37:02,998 - #43 .
+INFO  14:37:02,998 - #17 NULA
+INFO  14:37:02,998 - #7 )
+INFO  14:37:02,998 - #39 *
+INFO  14:37:02,998 - #14 0
+INFO  14:37:02,998 - #7 )
+INFO  14:37:02,998 - #5 ;
+INFO  14:37:02,998 - #9 print
+INFO  14:37:02,999 - #6 (
+INFO  14:37:02,999 - #17 bodovi
+INFO  14:37:02,999 - #7 )
+INFO  14:37:02,999 - #5 ;
+INFO  14:37:02,999 - #37 read
+INFO  14:37:02,999 - #6 (
+INFO  14:37:02,999 - #17 bodovi
+INFO  14:37:02,999 - #7 )
+INFO  14:37:03,000 - #5 ;
+INFO  14:37:03,000 - #17 bodovi
+INFO  14:37:03,000 - #12 =
+INFO  14:37:03,000 - #17 inc
+INFO  14:37:03,000 - #6 (
+INFO  14:37:03,000 - #17 bodovi
+INFO  14:37:03,000 - #7 )
+INFO  14:37:03,000 - #5 ;
+INFO  14:37:03,001 - #9 print
+INFO  14:37:03,001 - #6 (
+INFO  14:37:03,001 - #17 bodovi
+INFO  14:37:03,001 - #7 )
+INFO  14:37:03,001 - #5 ;
+INFO  14:37:03,001 - #4 }
+INFO  14:37:03,001 - #4 }
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive broj na liniji 16
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive arr na liniji 21
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive index na liniji 21
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive arr na liniji 21
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive index na liniji 21
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive b na liniji 21
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive nula na liniji 28
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive jedan na liniji 29
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive bodovi na liniji 31
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive bodovi na liniji 32
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive bodovi na liniji 33
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive bodovi na liniji 33
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive jedan na liniji 33
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive bodovi na liniji 34
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive bodovi na liniji 34
+INFO  14:37:03,027 - Detektovano koriscenje konstante pet u liniji 34 na liniji 34
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive bodovi na liniji 35
+INFO  14:37:03,027 - Detektovano koriscenje lokalne promenljive bodovi na liniji 36
+INFO  14:37:03,027 - Detektovano koriscenje globalne promenljive niz na liniji 39
+INFO  14:37:03,034 - Detektovano koriscenje globalne promenljive niz na liniji 40
+INFO  14:37:03,034 - Detektovano koriscenje lokalne promenljive nula na liniji 40
+INFO  14:37:03,034 - Detektovano koriscenje konstante pet u liniji 40 na liniji 40
+INFO  14:37:03,034 - Detektovano koriscenje globalne promenljive niz na liniji 41
+INFO  14:37:03,034 - Detektovano koriscenje globalne promenljive niz na liniji 42
+INFO  14:37:03,034 - Pronadjen poziv funkcije inc na liniji 42
+INFO  14:37:03,034 - Pronadjen poziv funkcije mul na liniji 42
+INFO  14:37:03,034 - Detektovano koriscenje globalne promenljive niz na liniji 43
+INFO  14:37:03,035 - Pronadjen poziv funkcije inc na liniji 43
+INFO  14:37:03,035 - Pronadjen poziv funkcije inc na liniji 43
+INFO  14:37:03,035 - Pronadjen poziv funkcije mul na liniji 43
+INFO  14:37:03,035 - Detektovano koriscenje lokalne promenljive bodovi na liniji 44
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive niz na liniji 44
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive niz na liniji 44
+INFO  14:37:03,035 - Detektovano koriscenje lokalne promenljive bodovi na liniji 45
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive niz na liniji 46
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive nizch na liniji 49
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive nizch na liniji 50
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive nizch na liniji 51
+INFO  14:37:03,035 - Detektovano koriscenje lokalne promenljive jedan na liniji 51
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive nizch na liniji 52
+INFO  14:37:03,035 - Detektovano koriscenje konstante pet u liniji 52 na liniji 52
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive nizch na liniji 53
+INFO  14:37:03,035 - Pronadjen poziv funkcije inc na liniji 53
+INFO  14:37:03,035 - Detektovano koriscenje globalne promenljive nizch na liniji 54
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive jedan na liniji 54
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive bodovi na liniji 57
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive bodovi na liniji 57
+INFO  14:37:03,037 - Detektovano koriscenje konstante pet u liniji 57 na liniji 57
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive jedan na liniji 57
+INFO  14:37:03,037 - Pronadjen poziv funkcije inc na liniji 57
+INFO  14:37:03,037 - Pronadjen poziv funkcije inc na liniji 57
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive bodovi na liniji 58
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive bodovi na liniji 61
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive bodovi na liniji 62
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive bodovi na liniji 62
+INFO  14:37:03,037 - Pronadjen poziv funkcije inc na liniji 62
+INFO  14:37:03,037 - Detektovano koriscenje lokalne promenljive bodovi na liniji 63
+INFO  14:37:03,037 - Print calls = 7
+INFO  14:37:03,037 - Generating bytecode file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.obj
+INFO  14:37:03,063 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,163 @@
+INFO  14:50:04,923 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  14:50:05,139 - #2 program
+INFO  14:50:05,140 - #17 test301
+INFO  14:50:05,140 - #21 enum
+INFO  14:50:05,144 - #17 Broj
+INFO  14:50:05,144 - #3 {
+INFO  14:50:05,146 - #17 NULA
+INFO  14:50:05,146 - #8 ,
+INFO  14:50:05,146 - #17 JEDAN
+INFO  14:50:05,146 - #8 ,
+INFO  14:50:05,147 - #17 PET
+INFO  14:50:05,147 - #12 =
+INFO  14:50:05,147 - #14 5
+INFO  14:50:05,148 - #8 ,
+INFO  14:50:05,148 - #17 DESET
+INFO  14:50:05,148 - #12 =
+INFO  14:50:05,149 - #14 10
+INFO  14:50:05,149 - #4 }
+INFO  14:50:05,149 - #20 const
+INFO  14:50:05,152 - #17 int
+INFO  14:50:05,152 - #17 jedan
+INFO  14:50:05,157 - #12 =
+INFO  14:50:05,157 - #14 1
+INFO  14:50:05,158 - #5 ;
+INFO  14:50:05,158 - #20 const
+INFO  14:50:05,160 - #17 int
+INFO  14:50:05,160 - #17 pet
+INFO  14:50:05,160 - #12 =
+INFO  14:50:05,160 - #14 5
+INFO  14:50:05,160 - #5 ;
+INFO  14:50:05,160 - #17 int
+INFO  14:50:05,161 - #17 niz
+INFO  14:50:05,161 - #22 [
+INFO  14:50:05,161 - #23 ]
+INFO  14:50:05,161 - #5 ;
+INFO  14:50:05,161 - #17 char
+INFO  14:50:05,162 - #17 nizch
+INFO  14:50:05,162 - #22 [
+INFO  14:50:05,162 - #23 ]
+INFO  14:50:05,162 - #5 ;
+INFO  14:50:05,162 - #3 {
+INFO  14:50:05,163 - #17 int
+INFO  14:50:05,164 - #17 inc
+INFO  14:50:05,164 - #6 (
+INFO  14:50:05,165 - #17 int
+INFO  14:50:05,165 - #17 broj
+INFO  14:50:05,165 - #7 )
+INFO  14:50:05,166 - #3 {
+INFO  14:50:05,166 - #10 return
+INFO  14:50:05,168 - #17 broj
+INFO  14:50:05,168 - #11 +
+INFO  14:50:05,170 - #17 Broj
+INFO  14:50:05,170 - #43 .
+INFO  14:50:05,170 - #17 JEDAN
+INFO  14:50:05,171 - #5 ;
+INFO  14:50:05,171 - #4 }
+INFO  14:50:05,172 - #13 void
+INFO  14:50:05,173 - #17 mul
+INFO  14:50:05,173 - #6 (
+INFO  14:50:05,173 - #17 int
+INFO  14:50:05,179 - #17 arr
+INFO  14:50:05,180 - #22 [
+INFO  14:50:05,180 - #23 ]
+INFO  14:50:05,180 - #8 ,
+INFO  14:50:05,181 - #17 int
+INFO  14:50:05,181 - #17 index
+INFO  14:50:05,181 - #8 ,
+INFO  14:50:05,181 - #17 int
+INFO  14:50:05,182 - #17 b
+INFO  14:50:05,182 - #7 )
+INFO  14:50:05,182 - #3 {
+INFO  14:50:05,182 - #17 arr
+INFO  14:50:05,182 - #22 [
+INFO  14:50:05,182 - #17 index
+INFO  14:50:05,183 - #23 ]
+INFO  14:50:05,183 - #12 =
+INFO  14:50:05,183 - #17 arr
+INFO  14:50:05,184 - #22 [
+INFO  14:50:05,184 - #17 index
+INFO  14:50:05,184 - #23 ]
+INFO  14:50:05,184 - #39 *
+INFO  14:50:05,184 - #17 b
+INFO  14:50:05,184 - #5 ;
+INFO  14:50:05,185 - #4 }
+INFO  14:50:05,186 - #13 void
+INFO  14:50:05,186 - #17 main
+INFO  14:50:05,186 - #6 (
+INFO  14:50:05,186 - #7 )
+INFO  14:50:05,188 - #17 int
+INFO  14:50:05,189 - #17 bodovi
+INFO  14:50:05,189 - #5 ;
+INFO  14:50:05,189 - #17 Broj
+INFO  14:50:05,189 - #17 nula
+INFO  14:50:05,189 - #8 ,
+INFO  14:50:05,189 - #17 jedan
+INFO  14:50:05,190 - #5 ;
+INFO  14:50:05,190 - #3 {
+INFO  14:50:05,190 - #17 nula
+INFO  14:50:05,190 - #12 =
+INFO  14:50:05,190 - #17 Broj
+INFO  14:50:05,191 - #43 .
+INFO  14:50:05,191 - #17 NULA
+INFO  14:50:05,191 - #5 ;
+INFO  14:50:05,191 - #17 jedan
+INFO  14:50:05,191 - #12 =
+INFO  14:50:05,191 - #17 Broj
+INFO  14:50:05,191 - #43 .
+INFO  14:50:05,192 - #17 JEDAN
+INFO  14:50:05,192 - #5 ;
+INFO  14:50:05,192 - #9 print
+INFO  14:50:05,192 - #6 (
+INFO  14:50:05,192 - #14 25
+INFO  14:50:05,192 - #7 )
+INFO  14:50:05,193 - #5 ;
+INFO  14:50:05,193 - #17 niz
+INFO  14:50:05,193 - #12 =
+INFO  14:50:05,193 - #42 new 
+INFO  14:50:05,194 - #17 int
+INFO  14:50:05,194 - #22 [
+INFO  14:50:05,194 - #14 2
+INFO  14:50:05,194 - #23 ]
+INFO  14:50:05,194 - #5 ;
+INFO  14:50:05,197 - #17 niz
+INFO  14:50:05,198 - #22 [
+INFO  14:50:05,198 - #17 nula
+INFO  14:50:05,198 - #23 ]
+INFO  14:50:05,198 - #12 =
+INFO  14:50:05,199 - #17 pet
+INFO  14:50:05,199 - #5 ;
+INFO  14:50:05,199 - #17 niz
+INFO  14:50:05,200 - #22 [
+INFO  14:50:05,200 - #14 1
+INFO  14:50:05,200 - #23 ]
+INFO  14:50:05,200 - #12 =
+INFO  14:50:05,200 - #17 Broj
+INFO  14:50:05,200 - #43 .
+INFO  14:50:05,201 - #17 DESET
+INFO  14:50:05,201 - #5 ;
+INFO  14:50:05,201 - #9 print
+INFO  14:50:05,201 - #6 (
+INFO  14:50:05,201 - #17 niz
+INFO  14:50:05,201 - #44 count
+INFO  14:50:05,202 - #7 )
+INFO  14:50:05,202 - #5 ;
+INFO  14:50:05,202 - #4 }
+INFO  14:50:05,202 - #4 }
+INFO  14:50:05,308 - Detektovano koriscenje lokalne promenljive broj na liniji 16
+INFO  14:50:05,308 - Detektovano koriscenje lokalne promenljive arr na liniji 21
+INFO  14:50:05,308 - Detektovano koriscenje lokalne promenljive index na liniji 21
+INFO  14:50:05,308 - Detektovano koriscenje lokalne promenljive arr na liniji 21
+INFO  14:50:05,308 - Detektovano koriscenje lokalne promenljive index na liniji 21
+INFO  14:50:05,309 - Detektovano koriscenje lokalne promenljive b na liniji 21
+INFO  14:50:05,309 - Detektovano koriscenje lokalne promenljive nula na liniji 28
+INFO  14:50:05,309 - Detektovano koriscenje lokalne promenljive jedan na liniji 29
+INFO  14:50:05,309 - Detektovano koriscenje globalne promenljive niz na liniji 33
+INFO  14:50:05,310 - Detektovano koriscenje globalne promenljive niz na liniji 34
+INFO  14:50:05,310 - Detektovano koriscenje lokalne promenljive nula na liniji 34
+INFO  14:50:05,310 - Detektovano koriscenje konstante pet u liniji 34 na liniji 34
+INFO  14:50:05,310 - Detektovano koriscenje globalne promenljive niz na liniji 35
+INFO  14:50:05,310 - Detektovano koriscenje globalne promenljive niz na liniji 37
+INFO  14:50:05,310 - Print calls = 1
+INFO  14:50:05,311 - Generating bytecode file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.obj
+INFO  14:50:05,325 - Parsiranje uspesno zavrseno!

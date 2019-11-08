@@ -1,0 +1,72 @@
+INFO  17:52:23,498 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  17:52:23,683 - #2 program
+INFO  17:52:23,683 - #17 p
+INFO  17:52:23,683 - #3 {
+INFO  17:52:23,688 - #17 int
+INFO  17:52:23,688 - #17 f
+INFO  17:52:23,688 - #6 (
+INFO  17:52:23,688 - #17 int
+INFO  17:52:23,688 - #17 x
+INFO  17:52:23,688 - #8 ,
+INFO  17:52:23,688 - #17 char
+INFO  17:52:23,688 - #17 c
+INFO  17:52:23,688 - #7 )
+INFO  17:52:23,688 - #3 {
+INFO  17:52:23,688 - #10 return
+INFO  17:52:23,688 - #17 x
+INFO  17:52:23,688 - #11 +
+INFO  17:52:23,688 - #14 1
+INFO  17:52:23,688 - #5 ;
+INFO  17:52:23,688 - #4 }
+INFO  17:52:23,688 - #13 void
+INFO  17:52:23,688 - #17 main
+INFO  17:52:23,688 - #6 (
+INFO  17:52:23,688 - #7 )
+INFO  17:52:23,688 - #3 {
+INFO  17:52:23,688 - #17 f
+INFO  17:52:23,688 - #6 (
+INFO  17:52:23,688 - #14 1
+INFO  17:52:23,688 - #8 ,
+INFO  17:52:23,688 - #16 '
+INFO  17:52:23,688 - #7 )
+INFO  17:52:23,688 - #5 ;
+INFO  17:52:23,688 - #17 f
+INFO  17:52:23,688 - #6 (
+INFO  17:52:23,688 - #14 1
+INFO  17:52:23,688 - #8 ,
+INFO  17:52:23,688 - #14 2
+INFO  17:52:23,688 - #8 ,
+INFO  17:52:23,688 - #14 3
+INFO  17:52:23,688 - #7 )
+INFO  17:52:23,688 - #5 ;
+INFO  17:52:23,688 - #17 f
+INFO  17:52:23,688 - #6 (
+INFO  17:52:23,688 - #7 )
+INFO  17:52:23,688 - #5 ;
+INFO  17:52:23,703 - #17 f
+INFO  17:52:23,703 - #6 (
+INFO  17:52:23,703 - #16 '
+INFO  17:52:23,703 - #8 ,
+INFO  17:52:23,703 - #14 1
+INFO  17:52:23,703 - #7 )
+INFO  17:52:23,703 - #5 ;
+INFO  17:52:23,703 - #17 f
+INFO  17:52:23,703 - #6 (
+INFO  17:52:23,703 - #14 1
+INFO  17:52:23,703 - #7 )
+INFO  17:52:23,703 - #5 ;
+INFO  17:52:23,703 - #4 }
+INFO  17:52:23,703 - #4 }
+INFO  17:52:23,734 - Detektovano koriscenje lokalne promenljive x na liniji 5
+INFO  17:52:23,734 - Pronadjen poziv funkcije f na liniji 9
+INFO  17:52:23,734 - Pronadjen poziv funkcije f na liniji 10
+ERROR 17:52:23,734 - Nije adekvatan broj argumenata! Greska  na liniji 10
+INFO  17:52:23,734 - Pronadjen poziv funkcije f na liniji 0
+ERROR 17:52:23,734 - Nije adekvatan broj argumenata!
+INFO  17:52:23,734 - Pronadjen poziv funkcije f na liniji 12
+ERROR 17:52:23,734 - Nekompatibilan parametar x na liniji 12
+ERROR 17:52:23,734 - Nekompatibilan parametar c na liniji 12
+INFO  17:52:23,734 - Pronadjen poziv funkcije f na liniji 13
+ERROR 17:52:23,734 - Nije adekvatan broj argumenata! Greska  na liniji 13
+INFO  17:52:23,734 - Print calls = 0
+ERROR 17:52:23,734 - Parsiranje NIJE uspesno zavrseno!

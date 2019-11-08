@@ -1,0 +1,76 @@
+INFO  17:56:23,986 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  17:56:24,174 - #2 program
+INFO  17:56:24,174 - #17 p
+INFO  17:56:24,174 - #3 {
+INFO  17:56:24,174 - #17 int
+INFO  17:56:24,178 - #17 f
+INFO  17:56:24,178 - #6 (
+INFO  17:56:24,178 - #17 int
+INFO  17:56:24,178 - #17 x
+INFO  17:56:24,178 - #8 ,
+INFO  17:56:24,178 - #17 char
+INFO  17:56:24,178 - #17 c
+INFO  17:56:24,178 - #7 )
+INFO  17:56:24,178 - #3 {
+INFO  17:56:24,178 - #10 return
+INFO  17:56:24,183 - #17 x
+INFO  17:56:24,183 - #11 +
+INFO  17:56:24,183 - #14 1
+INFO  17:56:24,183 - #5 ;
+INFO  17:56:24,183 - #4 }
+INFO  17:56:24,183 - #13 void
+INFO  17:56:24,183 - #17 main
+INFO  17:56:24,183 - #6 (
+INFO  17:56:24,183 - #7 )
+INFO  17:56:24,183 - #17 int
+INFO  17:56:24,183 - #17 x
+INFO  17:56:24,183 - #5 ;
+INFO  17:56:24,183 - #3 {
+INFO  17:56:24,183 - #17 f
+INFO  17:56:24,183 - #6 (
+INFO  17:56:24,183 - #14 1
+INFO  17:56:24,183 - #8 ,
+INFO  17:56:24,183 - #16 '
+INFO  17:56:24,183 - #7 )
+INFO  17:56:24,183 - #5 ;
+INFO  17:56:24,183 - #17 f
+INFO  17:56:24,183 - #6 (
+INFO  17:56:24,183 - #17 f
+INFO  17:56:24,183 - #6 (
+INFO  17:56:24,183 - #14 1
+INFO  17:56:24,183 - #8 ,
+INFO  17:56:24,183 - #16 '
+INFO  17:56:24,183 - #7 )
+INFO  17:56:24,183 - #8 ,
+INFO  17:56:24,183 - #16 '
+INFO  17:56:24,183 - #7 )
+INFO  17:56:24,183 - #5 ;
+INFO  17:56:24,183 - #17 f
+INFO  17:56:24,183 - #6 (
+INFO  17:56:24,183 - #17 f
+INFO  17:56:24,183 - #6 (
+INFO  17:56:24,183 - #17 f
+INFO  17:56:24,183 - #6 (
+INFO  17:56:24,183 - #14 1
+INFO  17:56:24,183 - #8 ,
+INFO  17:56:24,183 - #14 2
+INFO  17:56:24,183 - #7 )
+INFO  17:56:24,183 - #8 ,
+INFO  17:56:24,183 - #16 '
+INFO  17:56:24,183 - #7 )
+INFO  17:56:24,199 - #8 ,
+INFO  17:56:24,199 - #16 '
+INFO  17:56:24,199 - #7 )
+INFO  17:56:24,199 - #5 ;
+INFO  17:56:24,199 - #4 }
+INFO  17:56:24,199 - #4 }
+INFO  17:56:24,230 - Detektovano koriscenje lokalne promenljive x na liniji 5
+INFO  17:56:24,230 - Pronadjen poziv funkcije f na liniji 12
+INFO  17:56:24,230 - Pronadjen poziv funkcije f na liniji 13
+INFO  17:56:24,230 - Pronadjen poziv funkcije f na liniji 13
+INFO  17:56:24,230 - Pronadjen poziv funkcije f na liniji 14
+ERROR 17:56:24,230 - Nekompatibilan parametar c na liniji 14
+INFO  17:56:24,230 - Pronadjen poziv funkcije f na liniji 14
+INFO  17:56:24,230 - Pronadjen poziv funkcije f na liniji 14
+INFO  17:56:24,230 - Print calls = 0
+ERROR 17:56:24,230 - Parsiranje NIJE uspesno zavrseno!

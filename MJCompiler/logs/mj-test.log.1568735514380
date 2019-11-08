@@ -1,0 +1,44 @@
+INFO  17:51:34,429 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  17:51:34,615 - #2 program
+INFO  17:51:34,615 - #17 p
+INFO  17:51:34,615 - #3 {
+INFO  17:51:34,615 - #17 int
+INFO  17:51:34,615 - #17 f
+INFO  17:51:34,615 - #6 (
+INFO  17:51:34,615 - #17 int
+INFO  17:51:34,615 - #17 x
+INFO  17:51:34,615 - #8 ,
+INFO  17:51:34,615 - #17 char
+INFO  17:51:34,615 - #17 c
+INFO  17:51:34,615 - #7 )
+INFO  17:51:34,615 - #3 {
+INFO  17:51:34,615 - #10 return
+INFO  17:51:34,631 - #17 x
+INFO  17:51:34,631 - #11 +
+INFO  17:51:34,631 - #14 1
+INFO  17:51:34,631 - #5 ;
+INFO  17:51:34,631 - #4 }
+INFO  17:51:34,631 - #13 void
+INFO  17:51:34,631 - #17 main
+INFO  17:51:34,631 - #6 (
+INFO  17:51:34,631 - #7 )
+INFO  17:51:34,635 - #3 {
+INFO  17:51:34,635 - #17 f
+INFO  17:51:34,635 - #6 (
+INFO  17:51:34,635 - #14 1
+INFO  17:51:34,635 - #8 ,
+INFO  17:51:34,635 - #16 '
+INFO  17:51:34,635 - #7 )
+INFO  17:51:34,635 - #5 ;
+INFO  17:51:34,635 - #17 f
+INFO  17:51:34,635 - #6 (
+INFO  17:51:34,635 - #7 )
+INFO  17:51:34,635 - #5 ;
+INFO  17:51:34,639 - #4 }
+INFO  17:51:34,639 - #4 }
+INFO  17:51:34,671 - Detektovano koriscenje lokalne promenljive x na liniji 5
+INFO  17:51:34,671 - Pronadjen poziv funkcije f na liniji 9
+INFO  17:51:34,671 - Pronadjen poziv funkcije f na liniji 0
+ERROR 17:51:34,671 - Nije adekvatan broj argumenata!
+INFO  17:51:34,671 - Print calls = 0
+ERROR 17:51:34,675 - Parsiranje NIJE uspesno zavrseno!

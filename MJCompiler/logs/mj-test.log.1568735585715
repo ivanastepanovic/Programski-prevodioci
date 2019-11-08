@@ -1,0 +1,83 @@
+INFO  17:52:41,502 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  17:52:41,689 - #2 program
+INFO  17:52:41,689 - #17 p
+INFO  17:52:41,689 - #3 {
+INFO  17:52:41,689 - #17 int
+INFO  17:52:41,689 - #17 f
+INFO  17:52:41,689 - #6 (
+INFO  17:52:41,689 - #17 int
+INFO  17:52:41,689 - #17 x
+INFO  17:52:41,689 - #8 ,
+INFO  17:52:41,689 - #17 char
+INFO  17:52:41,689 - #17 c
+INFO  17:52:41,689 - #7 )
+INFO  17:52:41,689 - #3 {
+INFO  17:52:41,689 - #10 return
+INFO  17:52:41,689 - #17 x
+INFO  17:52:41,689 - #11 +
+INFO  17:52:41,689 - #14 1
+INFO  17:52:41,689 - #5 ;
+INFO  17:52:41,689 - #4 }
+INFO  17:52:41,689 - #13 void
+INFO  17:52:41,689 - #17 main
+INFO  17:52:41,705 - #6 (
+INFO  17:52:41,705 - #7 )
+INFO  17:52:41,705 - #3 {
+INFO  17:52:41,705 - #17 f
+INFO  17:52:41,705 - #6 (
+INFO  17:52:41,705 - #14 1
+INFO  17:52:41,705 - #8 ,
+INFO  17:52:41,705 - #16 '
+INFO  17:52:41,705 - #7 )
+INFO  17:52:41,705 - #5 ;
+INFO  17:52:41,705 - #17 f
+INFO  17:52:41,705 - #6 (
+INFO  17:52:41,705 - #14 1
+INFO  17:52:41,705 - #8 ,
+INFO  17:52:41,705 - #14 2
+INFO  17:52:41,705 - #8 ,
+INFO  17:52:41,705 - #14 3
+INFO  17:52:41,705 - #7 )
+INFO  17:52:41,705 - #5 ;
+INFO  17:52:41,705 - #17 f
+INFO  17:52:41,705 - #6 (
+INFO  17:52:41,705 - #7 )
+INFO  17:52:41,705 - #5 ;
+INFO  17:52:41,705 - #17 f
+INFO  17:52:41,705 - #6 (
+INFO  17:52:41,705 - #16 '
+INFO  17:52:41,705 - #8 ,
+INFO  17:52:41,705 - #14 1
+INFO  17:52:41,705 - #7 )
+INFO  17:52:41,705 - #5 ;
+INFO  17:52:41,705 - #17 f
+INFO  17:52:41,705 - #6 (
+INFO  17:52:41,705 - #14 1
+INFO  17:52:41,705 - #7 )
+INFO  17:52:41,705 - #5 ;
+INFO  17:52:41,705 - #17 f
+INFO  17:52:41,705 - #6 (
+INFO  17:52:41,705 - #14 1
+INFO  17:52:41,705 - #8 ,
+INFO  17:52:41,705 - #16 '
+INFO  17:52:41,705 - #8 ,
+INFO  17:52:41,720 - #14 3
+INFO  17:52:41,720 - #7 )
+INFO  17:52:41,720 - #5 ;
+INFO  17:52:41,720 - #4 }
+INFO  17:52:41,720 - #4 }
+INFO  17:52:41,752 - Detektovano koriscenje lokalne promenljive x na liniji 5
+INFO  17:52:41,752 - Pronadjen poziv funkcije f na liniji 9
+INFO  17:52:41,752 - Pronadjen poziv funkcije f na liniji 10
+ERROR 17:52:41,752 - Nije adekvatan broj argumenata! Greska  na liniji 10
+INFO  17:52:41,752 - Pronadjen poziv funkcije f na liniji 0
+ERROR 17:52:41,752 - Nije adekvatan broj argumenata!
+INFO  17:52:41,752 - Pronadjen poziv funkcije f na liniji 12
+ERROR 17:52:41,752 - Nekompatibilan parametar x na liniji 12
+ERROR 17:52:41,752 - Nekompatibilan parametar c na liniji 12
+INFO  17:52:41,752 - Pronadjen poziv funkcije f na liniji 13
+ERROR 17:52:41,752 - Nije adekvatan broj argumenata! Greska  na liniji 13
+INFO  17:52:41,752 - Pronadjen poziv funkcije f na liniji 14
+ERROR 17:52:41,752 - Nije adekvatan broj argumenata! Greska  na liniji 14
+INFO  17:52:41,752 - Print calls = 0
+ERROR 17:52:41,752 - Parsiranje NIJE uspesno zavrseno!

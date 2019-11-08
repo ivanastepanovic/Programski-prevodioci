@@ -1,0 +1,47 @@
+INFO  17:54:03,272 - Compiling source file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  17:54:03,460 - #2 program
+INFO  17:54:03,460 - #17 p
+INFO  17:54:03,460 - #3 {
+INFO  17:54:03,460 - #17 int
+INFO  17:54:03,460 - #17 f
+INFO  17:54:03,460 - #6 (
+INFO  17:54:03,460 - #17 int
+INFO  17:54:03,460 - #17 x
+INFO  17:54:03,460 - #8 ,
+INFO  17:54:03,460 - #17 char
+INFO  17:54:03,460 - #17 c
+INFO  17:54:03,460 - #7 )
+INFO  17:54:03,460 - #3 {
+INFO  17:54:03,460 - #10 return
+INFO  17:54:03,460 - #17 x
+INFO  17:54:03,460 - #11 +
+INFO  17:54:03,460 - #14 1
+INFO  17:54:03,460 - #5 ;
+INFO  17:54:03,460 - #4 }
+INFO  17:54:03,460 - #13 void
+INFO  17:54:03,460 - #17 main
+INFO  17:54:03,475 - #6 (
+INFO  17:54:03,475 - #7 )
+INFO  17:54:03,475 - #17 int
+INFO  17:54:03,475 - #17 x
+INFO  17:54:03,475 - #5 ;
+INFO  17:54:03,475 - #3 {
+INFO  17:54:03,475 - #17 x
+INFO  17:54:03,475 - #12 =
+INFO  17:54:03,475 - #17 f
+INFO  17:54:03,475 - #6 (
+INFO  17:54:03,475 - #14 1
+INFO  17:54:03,475 - #8 ,
+INFO  17:54:03,475 - #14 2
+INFO  17:54:03,475 - #8 ,
+INFO  17:54:03,475 - #14 3
+INFO  17:54:03,475 - #7 )
+INFO  17:54:03,475 - #5 ;
+INFO  17:54:03,475 - #4 }
+INFO  17:54:03,475 - #4 }
+INFO  17:54:03,507 - Detektovano koriscenje lokalne promenljive x na liniji 5
+INFO  17:54:03,507 - Detektovano koriscenje lokalne promenljive x na liniji 11
+INFO  17:54:03,507 - Pronadjen poziv funkcije f na liniji 11
+INFO  17:54:03,507 - Print calls = 0
+INFO  17:54:03,507 - Generating bytecode file: C:\Users\Ivana\Desktop\fax\pp1\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.obj
+INFO  17:54:03,522 - Parsiranje uspesno zavrseno!
